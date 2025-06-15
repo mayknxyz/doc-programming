@@ -24,5 +24,24 @@ The purpose is to create a structured, interconnected library of notes to solidi
 
 ---
 
-### My Workflow
+### Workflow
 I capture quick, unsorted ideas in the `00-inbox/` folder and later refine them into structured notes within the appropriate category. Each note aims to be atomic and linked to related concepts.
+
+
+* Learn Something New: Read a blog post about the CAP Theorem.
+* Create a New Note:
+  * Navigate to the right folder: cd 04-system-design/
+  * Create a new file: cap-theorem.md
+* Use the Template: Copy the content from template.md into cap-theorem.md.
+* Write Note: Fill out the sections. Explain the theorem.
+* Connect Knowledge: In the Related Concepts section, think about what relates to the CAP Theorem. Might add:
+  * [Database Fundamentals](../06-database-fundamentals/)
+  * [SQL vs NoSQL](../06-database-fundamentals/sql-vs-nosql.md)
+  * [Microservices](../07-software-architecture/monolithic-vs-microservices.md)
+* Commit Work: Use a clear commit message.
+
+```
+git add 04-system-design/cap-theorem.md
+git commit -m "docs: Add new note on the CAP Theorem"
+git push
+```
