@@ -6,6 +6,16 @@ The purpose is to create a structured, interconnected library of notes to solidi
 
 ---
 
+![Repo status](https://img.shields.io/badge/status-in%20progress-green?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/mayknxyz/learn-programming?style=for-the-badge)
+
+<a href="https://www.linkedin.com/in/mikenavales/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+---
+
 ## Table of Contents
 
 ### Foundational Concepts
